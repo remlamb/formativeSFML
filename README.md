@@ -1,5 +1,7 @@
 # formative SFML Painting SAE
 
+### --- This project is only in the 00-FormativeCanvas Folder ----
+
 The code can create two type of painting using SFML Library : 
 
 Create on type based on Vera Molnar's Java de 36 carrés with On Click event, an other type based on Vera Molnar's PlotterDrawing with the keyboard Pressed event.
