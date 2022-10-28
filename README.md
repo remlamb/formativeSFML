@@ -2,7 +2,7 @@
 
 The code can create two type of painting using SFML Library : 
 
-Create on type On Click, an other type on keyboard Pressed.
+Create on type based on Vera Molnar's Java de 36 carrés with On Click event, an other type based on Vera Molnar's PlotterDrawing with the keyboard Pressed event.
 
 Painting are created with multiple rectangle, with different size or color. It also add a unique signature composed with initials and the number series.
 
